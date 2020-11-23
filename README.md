@@ -1,6 +1,6 @@
 # In Parameter Order para interações de grau *n* (IPOG-F)
 
-In-Parameter-Order para interações de grau *n* (IPOG-F) é um algoritmo desenvolvido por (Yu Lei and K. C. Tai, 1998) para a geração de dados de teste para Teste Combinatorial. Nesse repositório se encontra uma implementação do algoritmo IPO na linguagem de programação Java, que foi utilizada no contexto de uma dissertação de mestrado. 
+In-Parameter-Order para interações de grau *n* (IPOG-F) (Forbes, 2008) é um algoritmo  para a geração de dados de teste para Teste Combinatorial. Nesse repositório se encontra uma implementação do algoritmo IPO na linguagem de programação Java, que foi utilizada no contexto de uma dissertação de mestrado. 
 
 ## Aplicando Teste Combinatorial para a geração de testes de unidade 
 
@@ -76,6 +76,8 @@ Para utilizar o algoritmo, basta criar um novo teste de unidade dentro do arquiv
 
 
 # Referências
+
+Forbes M, Lawrence J, Lei Y, Kacker RN, Kuhn DR. Refining the In-Parameter-Order Strategy for Constructing Covering Arrays. J Res Natl Inst Stand Technol. 2008;113(5):287-297. Published 2008 Oct 1. doi:10.6028/jres.113.022
 
 Yu Lei and K. C. Tai, "In-parameter-order: a test generation strategy for pairwise testing," Proceedings Third IEEE International High-Assurance Systems Engineering Symposium (Cat. No.98EX231), Washington, DC, USA, 1998, pp. 254-261, doi: 10.1109/HASE.1998.731623.
 
