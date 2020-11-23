@@ -1,7 +1,7 @@
-# In Parameter Order General para interações de grau *n* (IPOG-F) :computer:
-
 > **Project status:** complete :heavy_check_mark: </br>
 > **Author:** Juliana Marino Balera :busts_in_silhouette:
+
+# In Parameter Order General para interações de grau *n* (IPOG-F) :computer:
 
 In-Parameter-Order para interações de grau *n* (IPOG-F) (Forbes, 2008) é um algoritmo  para a geração de dados de teste para Teste Combinatorial. Nesse repositório se encontra uma implementação do algoritmo IPO na linguagem de programação Java, que foi utilizada no contexto de uma dissertação de mestrado. 
 
