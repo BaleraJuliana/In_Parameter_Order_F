@@ -15,7 +15,7 @@ Em linhas gerais, podemos dizer que o Teste Combinatorial, especificamente a té
 Para utilizar o algoritmo, basta rodar a classe "TesteCentral.java", como no exemplo a seguir. Observe que os fatores e níveis são inseridos um a um (são 3 fatores com respectivamente 2, 2 e 3 níveis cada um). Para terminar a passagem dos valores, basta digitar 0.
 
 
-<p align="center"><img src="fig1.png" width="400x" /></p>
+<p align="center"><img src="fig1.png" width="500x" /></p>
 
 
 # Referências :books:
